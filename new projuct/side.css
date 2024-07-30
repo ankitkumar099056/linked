@@ -1,0 +1,197 @@
+.navebar{
+    height: 80px;
+width: 100%;
+background-color:white; 
+padding-top: 50px;
+display: flex;
+justify-content: end;
+margin-right: 20px;
+justify-content: space-evenly;
+}
+.navebar img{
+    margin-right: 350px; 
+}
+.navebar button{
+    width: 100px;
+    height: 45px;
+    border-radius: 20px;
+    color: blue;
+    background-color: white;
+}
+.contenar1{
+    width: 600px;
+    height: 500px;
+    background-color: white;
+    padding-left: 80px;
+    padding-top: 50px;
+}
+.contenar2{
+    width: 400px;
+    height: 400px;
+    background-color:white;
+    position: absolute;
+    left: 800px;
+    top: 200px;
+}
+.contenar1 button{
+    width: 400px;
+    height: 50px;
+    border-radius: 50px;
+}
+.contenar3{
+    width: 400px;
+    height: 400px;
+    background-color: white;
+    padding-left: 100px;
+    padding-top: 50px;
+}
+.contenar4{
+    width: 500px;
+    height: 400px;
+    background-color: white;
+    position: absolute;
+    left: 600px;
+    top: 750px;
+}
+.contenar4 button{
+    background-color: white;
+    border-radius: 50px;
+    padding: 10px;
+}
+.contenar5{
+    width: 500px;
+    height: 400px;
+    background-color: white;
+}
+.contenar6{
+    width: 700px;
+    height: 400px;
+    background-color: white;
+    position: absolute;
+    left: 600px;
+    top: 1100px;
+    
+}
+.contenar6 button{
+    width: 200px;
+    height: 80px;
+    border-radius: 50px;
+    background-color: white;
+}
+.senter{
+    width: 1300px;
+    height: 300px;
+    background-color: bisque;
+    padding-left: 100px;
+    padding-top: 100px;
+}
+.senter button{
+    position: absolute;
+    left:700px;
+    border-radius: 50px;
+    padding: 10px;
+    top: 1700px;
+}
+.contenar7{
+    width: 500px;
+    height: 400px;
+    background-color: white;
+
+}
+.contenar8{
+    width: 700px;
+    height: 400px;
+    background-color:white;
+    position: absolute;
+    left: 600px;
+    bottom: -1760px;
+
+}
+.contenar8 button{
+    width: 150px;
+    height: 80px;
+    background-color: white;
+    border-radius: 50px;
+}
+.help{
+    width: 400px;
+    height: 400px;
+    background-color:white;
+}
+.help1{
+    width: 500px;
+    height: 400px;
+    background-color:white;
+    position: absolute;
+    left: 600px;
+    top: 2400px;
+}
+.help1 button{
+    width: 150px;
+    height: 80px;
+    background-color: white;
+    border-radius: 50px;
+}
+.borderlong{
+    width: 1300px;
+    height: 500px;
+    background-color: blanchedalmond;
+    padding-top: 100px;
+    padding-left: 100px;
+}
+.borderlong img{
+    padding-left: 700px;
+    position: absolute;
+    top: 2900px;
+}
+.short{
+    width: 1300px;
+    height: 600px;
+    background-color: white;
+    padding-left: 100px;
+}
+.box{
+    width: 500px;
+    height: 500px;
+    background-color: bisque;
+    padding-top: 200px;
+    padding-left: 100px;
+
+}
+.box1{
+    width: 500px;
+    height: 500px;
+    background-color: white;
+    position: absolute;
+    left: 700px;
+    top: 4000px;
+}
+.box button{
+    width: 300px;
+    height: 45;
+    border-radius: 50px;
+    background-color: white;
+}
+.colom{
+    width: 1200px;
+    height: 500px;
+    background-color:white;
+}
+.end{
+    width: 1200px;
+    height: 500px;
+    background-color: white;
+
+}
+.contenar5 h1{
+    padding-left: 100px;
+}
+.contenar7 h1{
+    padding-left: 100px;
+}
+.contenar7 h3{
+    padding-left: 100px;
+}
+.help{
+    padding-left: 100px;
+}
